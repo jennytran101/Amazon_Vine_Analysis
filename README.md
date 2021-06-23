@@ -7,7 +7,8 @@
 Total reviews:
 
 	+ 248 vine review 	
-	![vine](Resources/total_vine_reviews.png)
+	![vine](Resources/total_vone_reviews.png)
+	
 	
 	
 
