@@ -1,8 +1,10 @@
-# Amazon_Vine_Analysis
+#Amazon_Vine_Analysis
 
-# Overview:
+#Overview:
+Use Google Colab to help $ellby to analyze the product on leading retail website. There are a thousand reviews on website, and they are in word but they want to compare their products with their competitor product.
 
-# Results:
+
+#Results:
 
 ## Total reviews:
 Vine: 248 reviews
