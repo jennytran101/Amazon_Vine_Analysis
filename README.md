@@ -4,14 +4,14 @@
 
 # Results:
 
-There are total: 
+Total reviews:
 	+ 248 vine review 	
 	![vine_reviews](Resources/ total_vine_reviews.png)
 
 	+ 17514 non-vine review	
 	![vine_reviews](Resources/ total_nonvine_reviews.png)
 
-There are total:
+Total 5-star reviews:
 	+ 102 vine reviews are 5 stars
 	![5starvine_reviews](Resources/ vine_reviews_5_stars.png)
 
