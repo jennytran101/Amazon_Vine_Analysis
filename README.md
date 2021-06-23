@@ -1,10 +1,10 @@
-#Amazon_Vine_Analysis
+# Amazon_Vine_Analysis
 
-#Overview:
+# Overview:
 Use Google Colab to help $ellby to analyze the product on leading retail website. There are a thousand reviews on website, and they are in word but they want to compare their products with their competitor product.
 
 
-#Results:
+# Results:
 
 ## Total reviews:
 Vine: 248 reviews
@@ -32,3 +32,6 @@ Vine: 248 reviews
 ![percent_nonvine](Resources/percent_nonvine.png)
 
 
+# Summary: 
+There are 41% of 5 star reviews are paid and 29% of 5 stars products are unpaid. It means more customers choose products of $ellby company. Therefore, we don’t need any positivity bias for reviews in the Vine program. But I would recommend they could do the frequency analyze like how often that the customers use their products based on the reviews. 
+	
